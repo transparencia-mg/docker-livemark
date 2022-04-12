@@ -1,4 +1,2 @@
-Dtamg Docker
+Docker To Build Livemark Static Sites
 ===
-
-Docker image para publicação de conjunto de dados
